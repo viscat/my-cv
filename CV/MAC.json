@@ -1,0 +1,22 @@
+{
+  "$schema": "https://raw.githubusercontent.com/getmanfred/mac/v0.3/schema/schema.json",
+  "settings": {
+    "language": "EN",
+    "MACVersion": "0.3"
+  },
+  "aboutMe": {
+    "profile": {
+      "name": "Gerard",
+      "surnames": "Costa",
+      "title": "DevOps enabler",
+      "description": "",
+      "avatar": {
+        "alt": "IMG_20220328_185749.jpg",
+        "link": "https://media-asgard.s3.eu-west-1.amazonaws.com/22/03/29/ee04e3d8-db27-4660-ad25-6edcfb511127_img_20220328_185749.jpg"
+      },
+      "location": {
+        "notes": "Barcelona"
+      }
+    }
+  }
+}
